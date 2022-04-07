@@ -40,6 +40,7 @@ Output File
 
 ### Example
 **Input log**
+
     [200][http://apis.kingpiggy.net/search/news?apikey=23jf&q=kingpiggy][Firefox][2019-06-10 08:00:11]
 
 **Output File**
